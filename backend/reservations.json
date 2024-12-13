@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1733687198310,
+    "userId": 1,
+    "carId": 5,
+    "carModel": "Creta",
+    "startDate": "2024-12-10",
+    "endDate": "2024-12-26",
+    "totalPrice": 76000,
+    "discountDetails": {
+      "discountPercentage": 5,
+      "discountAmount": 4000
+    }
+  },
+  {
+    "id": 1733719406380,
+    "userId": 1,
+    "carId": 5,
+    "carModel": "Creta",
+    "startDate": "2024-12-30",
+    "endDate": "2025-01-06",
+    "totalPrice": 31500,
+    "discountDetails": {
+      "discountPercentage": 10,
+      "discountAmount": 3500
+    }
+  }
+]

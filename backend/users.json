@@ -1,0 +1,25 @@
+[
+  {
+    "email": "nirmitarora@gmail.com",
+    "password": "$2b$10$SifP26GrJBs6eYWIO2jqNeBSwxNc6TYMylHlUCFVfZ43hC72iaQS2",
+    "role": "admin"
+  },
+  {
+    "id": 2,
+    "username": "nishant",
+    "email": "nishant@gmail.com",
+    "password": "$2b$10$JUvGlWtW3J6l5uflJUlwB..GFURM8d7g2A3V/iLQsoyuQOCNdbmui"
+  },
+  {
+    "id": 3,
+    "username": "nirmit",
+    "email": "eee@gmail.com",
+    "password": "$2b$10$7z8Q30pHm3NE20yotiFqIeZ2CDvUtl.k5/8/4ko3TeKY3.E6CsWpa"
+  },
+  {
+    "id": 4,
+    "username": "raman",
+    "email": "raman@gmail.com",
+    "password": "$2b$10$hwtIrrSKYEVAdjnGj.NiuuatYlJn8qk1d8T6izO/trdBCj4f9ohku"
+  }
+]

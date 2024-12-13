@@ -1,0 +1,186 @@
+[
+  {
+    "id": 1,
+    "Make": "Toyota",
+    "Model": "Corolla",
+    "Year": 2022,
+    "AvailabilityStatus": "unavailable",
+    "PricePerDay": 3750,
+    "Location": "Mumbai",
+    "photos": [
+      "uploads\\photos\\1725206998465.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725207106631.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  },
+  {
+    "id": 2,
+    "Make": "Honda",
+    "Model": "Civic",
+    "Year": 2021,
+    "VIN": "2HGFB2F50FH123456",
+    "LicensePlate": "XYZ789",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 4500,
+    "Location": "Sonipat",
+    "photos": [
+      "uploads\\photos\\1725207364411.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725207364415.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  },
+  {
+    "id": 3,
+    "Make": "Ford",
+    "Model": "Mustang",
+    "Year": 2019,
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 6750,
+    "Location": "Bhagalpur",
+    "photos": [
+      "uploads\\photos\\1725090672524.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725090766572.mp4"
+    ]
+  },
+  {
+    "id": 4,
+    "Make": "Toyota",
+    "Model": "Camry",
+    "Year": 2021,
+    "VIN": "1HGCM82633A123456",
+    "LicensePlate": "XYZ1234",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 3750,
+    "Location": "Mumbai",
+    "photos": [
+      "uploads\\photos\\1725207632777.jpeg"
+    ],
+    "videos": [
+      "uploads\\videos\\1725207632779.mp4"
+    ]
+  },
+  {
+    "id": 5,
+    "Make": "Hyundai",
+    "Model": "Creta",
+    "Year": 2023,
+    "VIN": "1HGCM82633A789012",
+    "LicensePlate": "HYD5678",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 5000,
+    "Location": "Chennai",
+    "photos": [
+      "uploads\\photos\\1725428894766.webp"
+    ],
+    "videos": [
+      "uploads\\videos\\creta.mp4"
+    ],
+    "availabilityStatus": "unavailable"
+  },
+  {
+    "id": 6,
+    "Make": "Maruti Suzuki",
+    "Model": "Swift",
+    "Year": 2020,
+    "VIN": "1HGCM82633A345678",
+    "LicensePlate": "MSZ1234",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 3000,
+    "Location": "Pune",
+    "photos": [
+      "uploads\\photos\\1725207364412.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\swift.mp4"
+    ]
+  },
+  {
+    "id": 7,
+    "Make": "Mahindra",
+    "Model": "Thar",
+    "Year": 2021,
+    "VIN": "1HGCM82633A654321",
+    "LicensePlate": "THR7865",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 5500,
+    "Location": "Goa",
+    "photos": [
+      "uploads\\photos\\1725428894767.webp"
+    ],
+    "videos": [
+      "uploads\\videos\\thar.mp4"
+    ]
+  },
+  {
+    "id": 8,
+    "Make": "Tata",
+    "Model": "Nexon",
+    "Year": 2022,
+    "VIN": "1HGCM82633A432156",
+    "LicensePlate": "TTA6543",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 4500,
+    "Location": "Ahmedabad",
+    "photos": [
+      "uploads\\photos\\240913090300da.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\nexon.mp4"
+    ]
+  },
+  {
+    "id": 9,
+    "Make": "Kia",
+    "Model": "Seltos",
+    "Year": 2023,
+    "VIN": "1HGCM82633A567890",
+    "LicensePlate": "KIA9087",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 6000,
+    "Location": "Kolkata",
+    "photos": [
+      "uploads\\photos\\1725207632778.jpeg"
+    ],
+    "videos": [
+      "uploads\\videos\\seltos.mp4"
+    ]
+  },
+  {
+    "id": 10,
+    "Make": "Renault",
+    "Model": "Duster",
+    "Year": 2021,
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 4000,
+    "Location": "Amritsar",
+    "photos": [
+      "uploads\\photos\\1725428894768.webp"
+    ],
+    "videos": [
+      "uploads\\videos\\duster.mp4"
+    ]
+  },
+  {
+    "id": 11,
+    "Make": "Volkswagen",
+    "Model": "Polo",
+    "Year": 2020,
+    "VIN": "1HGCM82633A234567",
+    "LicensePlate": "VWP6543",
+    "AvailabilityStatus": "Available",
+    "PricePerDay": 3200,
+    "Location": "Lucknow",
+    "photos": [
+      "uploads\\photos\\1725207364413.jpg"
+    ],
+    "videos": [
+      "uploads\\videos\\polo.mp4"
+    ]
+  }
+]

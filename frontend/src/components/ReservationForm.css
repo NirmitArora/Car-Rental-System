@@ -1,0 +1,76 @@
+/* Background and layout */
+.reservation-container {
+    background-image: url('C:\backend_g33\frontend\car-rental-frontend\public\reservation_background.jpg'); /* Replace with an actual image URL */
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-box {
+    background-color: rgba(255, 255, 255, 0.9); /* Light translucent background */
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 400px;
+    text-align: center;
+}
+
+.form-title {
+    font-size: 24px;
+    margin-bottom: 1.5rem;
+    color: #333;
+}
+
+/* Form styling */
+.form-label {
+    display: block;
+    margin-bottom: 1rem;
+    color: #333;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.form-input {
+    width: 100%;
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.form-button {
+    width: 100%;
+    padding: 0.75rem;
+    background-color: #28a745;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    margin-top: 1rem;
+    transition: background-color 0.3s;
+}
+
+.form-button:hover {
+    background-color: #218838;
+}
+
+/* Success and error messages */
+.total-price {
+    margin-top: 1rem;
+    font-size: 18px;
+    color: #333;
+    font-weight: bold;
+}
+
+.error-message {
+    margin-top: 1rem;
+    font-size: 14px;
+    color: #dc3545;
+    font-weight: bold;
+}

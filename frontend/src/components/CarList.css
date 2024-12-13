@@ -1,0 +1,67 @@
+.car-list-container {
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 40px;
+    font-family: 'Arial', sans-serif;
+}
+
+.car-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+}
+
+.car-card {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    transition: transform 0.3s ease;
+}
+
+.car-card:hover {
+    transform: scale(1.05);
+}
+
+.car-image, .car-video {
+    width: 100%;
+    height: auto;
+    max-width: 300px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.price, .location {
+    font-size: 1.2rem;
+    margin-top: 10px;
+}
+
+.reserve-button {
+    margin-top: 20px;
+    padding: 12px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.reserve-button:hover {
+    background-color: #0056b3;
+}
+
+.unavailable-text {
+    margin-top: 10px;
+    color: #ff4d4d;
+    font-weight: bold;
+}
